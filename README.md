@@ -30,12 +30,12 @@ I am currently studying Web Development at [Trybe](https://www.betrybe.com).
 
 
 ## ➤ Languages:
-<a href="https://github.com/Willian-Rodrigues">
+<a href="https://github.com/EuJosue">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EuJosue&layout=compact&theme=radical" />
 </a>
 
 ## ➤ My stats:
-  <a href="https://github.com/Willian-Rodrigues">
+  <a href="https://github.com/EuJosue">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EuJosue&theme=radical&show_icons=true" />
 </a>
   
