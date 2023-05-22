@@ -45,6 +45,20 @@ I am currently studying Web Development at [Trybe](https://www.betrybe.com).
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EuJosue&repo=project-soccer-club&theme=vision-friendly-dark" />
   </a>
 
+## ➤ Contact:
+
+<a href="https://www.linkedin.com/in/eujosue/" target="_blank" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=0e76a8&link=https://www.linkedin.com/in/eujosue/"/>
+</a>
+  
+<a href="mailto:josueantoniok@gmail.com" target="_blank" alt="E-mail">
+    <img src="https://img.shields.io/badge/-E--mail-1C1C1C?style=for-the-badge&logo=Microsoft-Outlook&link=mailto:josueantoniok@gmail.com"/>
+</a>
+
+<a href="https://wa.me/5541988213897" target="_blank" alt="WhatsApp">
+   <img src="https://img.shields.io/badge/-WhatsApp-1C1C1C?style=for-the-badge&logo=WhatsApp&logoColor=47A985&link=https://wa.me/5541988213897"/>
+</a>
+
 &nbsp;
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB000&width=435&lines=Coffee+is+always+a+good+idea!)](https://git.io/typing-svg)
