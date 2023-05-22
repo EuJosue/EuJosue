@@ -41,18 +41,11 @@ I am currently studying Web Development at [Trybe](https://www.betrybe.com).
   
   
 ## ➤ Most Value Projects:
-  <h3>Project 1</h3>
-  <h3>Project 2</h3>
-  
-<!--
-  <a href="https://github.com/Willian-Rodrigues/nestjs-prisma-querybuilder-interface">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Willian-Rodrigues&repo=nestjs-prisma-querybuilder-interface&theme=radical" />
-</a>
-  
-  <a href=" https://github.com/willian-rodrigues/face-detection">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Willian-Rodrigues&repo=face-detection&theme=radical" />
-</a>
--->
+  <a href="https://github.com/EuJosue/project-soccer-club">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EuJosue&repo=project-soccer-club&theme=radical" />
+  </a>
+
+&nbsp;
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E64187&width=435&lines=Coffee+is+always+a+good+idea!)](https://git.io/typing-svg)
  
