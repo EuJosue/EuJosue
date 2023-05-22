@@ -31,21 +31,21 @@ I am currently studying Web Development at [Trybe](https://www.betrybe.com).
 
 ## ➤ Languages:
 <a href="https://github.com/EuJosue">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EuJosue&layout=compact&theme=radical" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EuJosue&layout=compact&theme=vision-friendly-dark" />
 </a>
 
 ## ➤ My stats:
   <a href="https://github.com/EuJosue">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EuJosue&theme=radical&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EuJosue&theme=vision-friendly-dark&show_icons=true" />
 </a>
   
   
 ## ➤ Most Value Projects:
   <a href="https://github.com/EuJosue/project-soccer-club">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EuJosue&repo=project-soccer-club&theme=radical" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EuJosue&repo=project-soccer-club&theme=vision-friendly-dark" />
   </a>
 
 &nbsp;
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E64187&width=435&lines=Coffee+is+always+a+good+idea!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB000&width=435&lines=Coffee+is+always+a+good+idea!)](https://git.io/typing-svg)
  
