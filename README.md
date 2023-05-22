@@ -1,14 +1,12 @@
 # Hey, I'm Josué Kirchner!
 
-Cargo
+Backend Developer.
 
-Graduacao
-
-Estudando
+I am currently studying Web Development at [Trybe](https://www.betrybe.com).
 
 ## 🔭 Hard-Skills
 <div align="center">
-  <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="200px" />
+  <img align="right" src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="200px" />
 </div>
 
   - #### Frontend
@@ -33,12 +31,12 @@ Estudando
 
 ## ➤ Languages:
 <a href="https://github.com/Willian-Rodrigues">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Willian-Rodrigues&layout=compact&theme=radical" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EuJosue&layout=compact&theme=radical" />
 </a>
 
 ## ➤ My stats:
   <a href="https://github.com/Willian-Rodrigues">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Willian-Rodrigues&theme=radical&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EuJosue&theme=radical&show_icons=true" />
 </a>
   
   
@@ -56,5 +54,5 @@ Estudando
 </a>
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009208&size=33&center=true&vCenter=true&width=840&height=80&lines=Coffee+is+always+a+good+idea+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E64187&width=435&lines=Coffee+is+always+a+good+idea!)](https://git.io/typing-svg)
  
