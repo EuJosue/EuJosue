@@ -53,10 +53,12 @@ I am currently studying Web Development at [Trybe](https://www.betrybe.com).
   </a>
 
 &nbsp;
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB000&width=435&lines=Coffee+is+always+a+good+idea!)](https://git.io/typing-svg)
  
-<div align="right">
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&pause=1000&color=FFB000&width=435&lines=Coffee+is+always+a+good+idea!" alt="Typing SVG" /></a>
+  
+  <br>
+  
   <a href="https://www.linkedin.com/in/eujosue/" target="_blank" alt="Linkedin">
       <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=0e76a8&link=https://www.linkedin.com/in/eujosue/"/>
   </a>
