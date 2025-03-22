@@ -45,12 +45,7 @@ I am currently studying Web Development at [Trybe](https://www.betrybe.com).
   <a href="https://github.com/EuJosue">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EuJosue&theme=vision-friendly-dark&show_icons=true" />
 </a>
-  
-  
-## ➤ Most Value Projects:
-  <a href="https://github.com/EuJosue/project-soccer-club">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=EuJosue&repo=project-soccer-club&theme=vision-friendly-dark" />
-  </a>
+
 
 &nbsp;
  
@@ -67,7 +62,7 @@ I am currently studying Web Development at [Trybe](https://www.betrybe.com).
       <img src="https://img.shields.io/badge/-E--mail-1C1C1C?style=for-the-badge&logo=Microsoft-Outlook&link=mailto:josueantoniok@gmail.com"/>
   </a>
 
-  <a href="https://wa.me/5541988213897" target="_blank" alt="WhatsApp">
-     <img src="https://img.shields.io/badge/-WhatsApp-1C1C1C?style=for-the-badge&logo=WhatsApp&logoColor=47A985&link=https://wa.me/5541988213897"/>
+  <a href="https://wa.me/554199241168" target="_blank" alt="WhatsApp">
+     <img src="https://img.shields.io/badge/-WhatsApp-1C1C1C?style=for-the-badge&logo=WhatsApp&logoColor=47A985&link=https://wa.me/554199241168"/>
   </a>  
 </div>
